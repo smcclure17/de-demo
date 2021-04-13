@@ -1,0 +1,16 @@
+{   "log_num": 134,
+    "data": [
+        {
+            "fips": 23,
+            "county": "johnson",
+            "state": "AL",
+            "completed": 3432
+        },
+        {
+            "fips": 12,
+            "county": "billaim",
+            "state": "NH",
+            "completed": 45252
+        }
+    ]
+}
